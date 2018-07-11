@@ -1,5 +1,3 @@
-## Downloading parcial repos from Github
-
 ### Frameworks
 
 #### Event Sourcing
