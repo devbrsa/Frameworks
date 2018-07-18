@@ -7,6 +7,12 @@
 #### Fault Tolerance/Circuit Brake/Retry Policies
 
   * [Polly](https://github.com/App-vNext/Polly)
+  
+#### Monitoring
+
+*[AppMetrics](https://www.app-metrics.io/)
+
+---
  
 #### GitZip for github
 https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn
