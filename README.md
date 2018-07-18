@@ -10,7 +10,9 @@
   
 #### Monitoring
 
-*[AppMetrics](https://www.app-metrics.io/)
+* [AppMetrics](https://www.app-metrics.io/)
+* Grafana
+* InfluxDb
 
 ---
  
