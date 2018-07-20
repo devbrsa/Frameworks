@@ -4,9 +4,13 @@
 
   * [EventFlow](https://github.com/eventflow/EventFlow):  Async/await first CQRS+ES and DDD framework for .NET http://docs.geteventflow.net/ 
   
-#### Fault Tolerance/Circuit Brake/Retry Policies
+#### Fault Tolerance/Circuit Braker/Retry Policies
 
   * [Polly](https://github.com/App-vNext/Polly)
+  
+  #### Background Tasks/Worker
+
+  * [Hangfire](https://www.hangfire.io/)
   
 #### Monitoring
 
