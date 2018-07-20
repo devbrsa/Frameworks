@@ -20,6 +20,11 @@
 * InfluxDb
 * https://grafana.com/dashboards/2125
 
+
+#### Logging
+
+Microsoft.AspNetCore.Diagnostics.Elm
+
 ---
  
 #### GitZip for github
