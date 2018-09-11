@@ -25,6 +25,11 @@
 
 Microsoft.AspNetCore.Diagnostics.Elm
 
+#### VS Extensions
+
+Supercharger
+OzCode
+
 ---
  
 #### GitZip for github
