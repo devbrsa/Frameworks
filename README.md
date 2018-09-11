@@ -27,8 +27,8 @@ Microsoft.AspNetCore.Diagnostics.Elm
 
 #### VS Extensions
 
-Supercharger
-OzCode
+* Supercharger
+* OzCode
 
 ---
  
